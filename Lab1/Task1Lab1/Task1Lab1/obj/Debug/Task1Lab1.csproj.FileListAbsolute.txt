@@ -1,0 +1,6 @@
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab1\Task1Lab1\bin\Debug\Task1Lab1.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab1\Task1Lab1\bin\Debug\Task1Lab1.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab1\Task1Lab1\bin\Debug\Task1Lab1.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab1\Task1Lab1\obj\Debug\Task1Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab1\Task1Lab1\obj\Debug\Task1Lab1.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab1\Task1Lab1\obj\Debug\Task1Lab1.pdb
