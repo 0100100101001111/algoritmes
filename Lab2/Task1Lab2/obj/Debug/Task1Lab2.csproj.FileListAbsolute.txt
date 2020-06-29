@@ -1,0 +1,13 @@
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab2\Task1Lab2\bin\Debug\Task1Lab2.exe.config
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab2\Task1Lab2\bin\Debug\Task1Lab2.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab2\Task1Lab2\bin\Debug\Task1Lab2.pdb
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab2\Task1Lab2\obj\Debug\Task1Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab2\Task1Lab2\obj\Debug\Task1Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab2\Task1Lab2\obj\Debug\Task1Lab2.exe
+C:\Users\Администратор\Documents\Visual Studio 2017\Projects\Task1Lab2\Task1Lab2\obj\Debug\Task1Lab2.pdb
+C:\Users\Win10Pro\Desktop\Task1Lab2\Task1Lab2\bin\Debug\Task1Lab2.exe.config
+C:\Users\Win10Pro\Desktop\Task1Lab2\Task1Lab2\bin\Debug\Task1Lab2.exe
+C:\Users\Win10Pro\Desktop\Task1Lab2\Task1Lab2\bin\Debug\Task1Lab2.pdb
+C:\Users\Win10Pro\Desktop\Task1Lab2\Task1Lab2\obj\Debug\Task1Lab2.csprojAssemblyReference.cache
+C:\Users\Win10Pro\Desktop\Task1Lab2\Task1Lab2\obj\Debug\Task1Lab2.exe
+C:\Users\Win10Pro\Desktop\Task1Lab2\Task1Lab2\obj\Debug\Task1Lab2.pdb
